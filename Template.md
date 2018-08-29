@@ -48,4 +48,5 @@ Content in the first column | Content in the second column
 Prova di testo
  - [] Checklist
  - [x] checklist completata
+ - [] Other checklist
 
