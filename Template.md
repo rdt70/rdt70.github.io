@@ -1,3 +1,6 @@
+---
+title: Document Center
+---
 # This is an <h 1> tag
 ## This is an <h 2> tag
 ###### This is an <h 6> tag
