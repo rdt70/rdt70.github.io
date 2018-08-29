@@ -29,7 +29,6 @@ Format: ![Alt Text](url)
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-As Kanye West said:
 
 > We're living the future so
 > the present is our past.
@@ -45,4 +44,8 @@ Content in the first column | Content in the second column
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+Prova di testo
+ - [] Checklist
+ - [x] checklist completata
 
